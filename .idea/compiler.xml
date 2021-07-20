@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="toeic-api-test" />
         <module name="toeic-core-common" />
         <module name="toeic-web-logic" />
         <module name="toeic-core-service-impl" />
@@ -18,8 +19,10 @@
         <module name="toeic-web" />
         <module name="toeic-core-dao" />
         <module name="toeic-core-persistence-data" />
-        <module name="toeic-core-test" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="toeic-core-test" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
