@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.idea" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ApplicationFile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Toeic.iml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pom.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-dao-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-persistence-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-core-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toeic-web-logic" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
